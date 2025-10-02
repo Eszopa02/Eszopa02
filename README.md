@@ -6,13 +6,17 @@ Currently working as a Senior Project Advisor at REACH Pathways on their educati
 During my free time, I enjoy designing and playing games, writing, and scrapbooking. 
 
 ***
-### PROJECTS:
+### MY PROJECTS:
 ***
 **Pack Tactics:** Pack Tactics is a 2D visual novel game where you are recruited to take part in a bank heist, and grow your trust with your team to succeed on your mission. _[Play Game Here](https://on-an-adventure.itch.io/pack-tactics)_
-**Project Imosha:**
-**PINBALL MASTER FLIPPER:**
-**Jump Into Art:**
-**Picture This!:**
+
+**Project Imosha:** Project Imosha is a deckbuilding game focused on preparing students for social situations in corporate settings. _[Watch Video Here](https://youtu.be/3R_neoOkj_I)_
+
+**PINBALL MASTER FLIPPER:** PINBALL MASTER FLIPPER is a 2D Pinball Game featuring three modes; Boss: Defeat the boss within 100 seconds, Rush: Speed of the game gets higher, Rhythm: Move the flippers to the beat of the song _[Play Game Here](https://andrewp-fun.itch.io/pinball-master-flipper)_
+
+**Jump Into Art:** Jump Into Art is a VR experience where you enter a Surrealist painting in a museum and explore the artwork from the inside _[Watch Video Here](https://youtu.be/gdJ3PZw-eiQ)_
+
+**Picture This!:** Picture This! Is a 2D scrapbooking Game where you can decorate a page with stickers and colorful paper _[Play Game Here](https://on-an-adventure.itch.io/picture-this)_
 
 ***
 ### SOCIALS:
