@@ -28,9 +28,11 @@ During my free time, I enjoy designing and playing games, writing, and scrapbook
 
 ![JIRA Banner](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![Asana](https://img.shields.io/badge/Asana-009DFF?style=for-the-badge&logo=asana&logoColor=white) ![Airtable Banner](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white) ![Trello Banner](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Notion Banner](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+***
+### GITHUB STATS
+****
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eszopa02&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+                                                           [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eszopa02&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
