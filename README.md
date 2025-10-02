@@ -30,6 +30,7 @@ During my free time, I enjoy designing and playing games, writing, and scrapbook
 
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
