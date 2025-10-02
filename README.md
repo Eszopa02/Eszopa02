@@ -1,6 +1,6 @@
 ## ABOUT ME:
-My name is Eden, I'm a recent graduate from Columbia College Chicago with a Bachelor's in Game Design & Development and a Master's in User Experience and Interaction Design. 
-Currently working as Senior Project Advisor at REACH Pathways on their educational app.
+My name is Eden. I'm a recent graduate from Columbia College Chicago, with a Bachelor's degree in Game Design & Development, as well as a Master's degree in User Experience and Interaction Design. 
+Currently working as a Senior Project Advisor at REACH Pathways on their educational app.
 During my free time, I enjoy designing and playing games, writing, and scrapbooking. 
 
 ***
