@@ -1,11 +1,11 @@
 ## ABOUT ME:
-***
 My name is Eden, I'm a recent graduate from Columbia College Chicago with a Bachelor's in Game Design & Development and a Master's in User Experience and Interaction Design. 
 Currently working as Senior Project Advisor at REACH Pathways on their educational app.
 During my free time, I enjoy designing and playing games, writing, and scrapbooking. 
 
+***
 ### SOCIALS:
-[(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eszopa/)
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
 
 <!--
 **Eszopa02/Eszopa02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
