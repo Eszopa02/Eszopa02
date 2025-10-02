@@ -5,7 +5,8 @@ During my free time, I enjoy designing and playing games, writing, and scrapbook
 
 ***
 ### SOCIALS:
-<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+
+![Linkedin Image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
 
 <!--
 **Eszopa02/Eszopa02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
