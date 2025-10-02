@@ -34,7 +34,9 @@ During my free time, I enjoy designing and playing games, writing, and scrapbook
 ### GITHUB STATS
 ****
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eszopa02&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=Eszopa02&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=Eszopa02&hide=contribs,prs)
+
 
 
 
