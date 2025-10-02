@@ -1,4 +1,4 @@
-[![Banner](https://media.licdn.com/dms/image/v2/D5616AQHFnGD1eX2uWw/profile-displaybackgroundimage-shrink_350_1400/B56ZksoELSJ0AY-/0/1757390324723?e=1762387200&v=beta&t=hFEY-UCuOLmXtrdYRS7sm5RgnprQgYjP8RVMkxHNS-8)
+![Banner](https://media.licdn.com/dms/image/v2/D5616AQHFnGD1eX2uWw/profile-displaybackgroundimage-shrink_350_1400/B56ZksoELSJ0AY-/0/1757390324723?e=1762387200&v=beta&t=hFEY-UCuOLmXtrdYRS7sm5RgnprQgYjP8RVMkxHNS-8)
 
 ## ABOUT ME:
 My name is Eden. I'm a recent graduate from Columbia College Chicago, with a Bachelor's degree in Game Design & Development, as well as a Master's degree in User Experience and Interaction Design. 
