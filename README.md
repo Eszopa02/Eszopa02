@@ -36,6 +36,56 @@ During my free time, I enjoy designing and playing games, writing, and scrapbook
 
 
 
+name: Generate Snake
+
+on:
+  schedule:
+    # Run every 12 hours
+    - cron: "0 */12 * * *"
+
+  # Allow manual triggering of the workflow
+  workflow_dispatch:
+
+  # Run on pushes to the main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Clone the repository
+      - name: Clone repo
+        uses: actions/checkout@v3
+
+      # Step 2: Generate the snake files
+      - name: Generate the snake files in './dist/'
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: {GITHUB_USERNAME}  # Replace with your GitHub username
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 3: Show the status of generated files
+      - name: Show build status
+        run: git status
+
+      # Step 4: Push the new files to the output branch
+      - name: Push new files to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output  # Branch where the generated files will be pushed
+          build_dir: dist
+          commit_message: Update snake animations
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
 <!--
