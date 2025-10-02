@@ -35,7 +35,7 @@ During my free time, I enjoy designing and playing games, writing, and scrapbook
 ****
 
 [![](https://github-readme-stats.vercel.app/api?username=Eszopa02&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=Eszopa02&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=Eszopa02&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
