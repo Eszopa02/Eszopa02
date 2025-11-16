@@ -8,6 +8,10 @@ During my free time, I enjoy designing and playing games, writing, and scrapbook
 ***
 ### MY PROJECTS:
 ***
+**Debts & Dragons:** Debts & Dragons is a trading simulator where every choice matters. Play as a merchant newly arrived in a foreign land, who becomes inadvertently indebted to a dangerous and powerful dragon. While the lands may be unfamiliar, commerce remains the same: Buy when supply is high and demand is low; sell when supply is low and demand is high. Profit. Repeat.  An easy path to riches. Or not.
+
+_[Play Game Here]([https://on-an-adventure.itch.io/pack-tactics](https://indiegameacademy.itch.io/debts-and-dragons))_
+
 **Pack Tactics:** Pack Tactics is a 2D visual novel game where you are recruited to take part in a bank heist, and grow your trust with your team to succeed on your mission. 
 
 _[Play Game Here](https://on-an-adventure.itch.io/pack-tactics)_
@@ -23,10 +27,6 @@ _[Play Game Here](https://andrewp-fun.itch.io/pinball-master-flipper)_
 **Jump Into Art:** Jump Into Art is a VR experience where you enter a Surrealist painting in a museum and explore the artwork from the inside.
 
 _[Watch Video Here](https://youtu.be/gdJ3PZw-eiQ)_
-
-**Picture This!:** Picture This! Is a 2D scrapbooking Game where you can decorate a page with stickers and colorful paper.
-
-_[Play Game Here](https://on-an-adventure.itch.io/picture-this)_
 
 ***
 ### SOCIALS:
