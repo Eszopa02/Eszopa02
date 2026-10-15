@@ -15,6 +15,7 @@ During my free time, I enjoy designing and playing games, writing, photography, 
 **How To Train Your Virus:** How To Train Your Virus is a high-stakes, fast-paced roguelike arena survival game where precision movement is your only defense. Dodge relentless hazards, adapt through risky upgrades, and survive an escalating series of brutal challenges.
 
 _[Play The Demo Here](https://team-soup-studio.itch.io/how-to-train-your-virus)_
+
 _[Wishlist on Steam Here](https://store.steampowered.com/app/4585860/How_To_Train_Your_Virus/)_
 
 **Debts & Dragons:** Debts & Dragons is a trading simulator where every choice matters. Play as a merchant newly arrived in a foreign land who becomes inadvertently indebted to a dangerous and powerful dragon. While the lands may be unfamiliar, commerce remains the same: Buy when supply is high and demand is low; sell when supply is low and demand is high. Profit. Repeat.  An easy path to riches. Or not.
@@ -50,14 +51,21 @@ _[Play Game Here](https://andrewp-fun.itch.io/pinball-master-flipper)_
 
 ![Unity Banner](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine Banner](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
+**Design & Interfaces**
+
+![Figma Banner](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Creative Suite Banner](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Canva Banner](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![Webflow Badge](https://img.shields.io/badge/Webflow-146EF5?logo=webflow&logoColor=fff&style=for-the-badge)
+
+**Production & Project Management**
+
+![Jira Banner](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![Airtable Banner](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white) ![Notion Banner](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)  ![Trello Banner](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Asana](https://img.shields.io/badge/asana-%23F06A6A.svg?style=for-the-badge&logo=asana&logoColor=white)
 
 **Developer Tools**
 
-![GitHub Banner](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio Banner](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![Canva Banner](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![Figma Banner](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Miro Banner](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
+![GitHub Banner](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio Banner](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-**Project Management Software**
+**Strategy & Collaboration**
 
-![JIRA Banner](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![Asana](https://img.shields.io/badge/Asana-009DFF?style=for-the-badge&logo=asana&logoColor=white) ![Airtable Banner](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white) ![Trello Banner](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Notion Banner](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Miro Banner](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036) ![Microsoft Office Banner](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Google Docs Banner](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white) ![Google Sheets Banner](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) ![Google Slides Banner](https://img.shields.io/badge/Google%20Slides-FBBC04?style=for-the-badge&logo=google-slides&logoColor=black)
 
 ***
 ### GITHUB STATS
