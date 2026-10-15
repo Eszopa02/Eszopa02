@@ -1,37 +1,43 @@
 ![Banner](https://media.licdn.com/dms/image/v2/D5616AQHFnGD1eX2uWw/profile-displaybackgroundimage-shrink_350_1400/B56ZksoELSJ0AY-/0/1757390324723?e=1793836800&v=beta&t=yM1fhIgoO0m_kuFqxtSqQOBbfoZ5ksV_6VUqHecVanE)
 
 ## ABOUT ME:
-My name is Eden. I'm a recent graduate from Columbia College Chicago, with a Bachelor's degree in Game Design & Development, as well as a Master's degree in User Experience and Interaction Design. 
-Currently working as a Senior Project Advisor at REACH Pathways on their educational app.
-During my free time, I enjoy designing and playing games, writing, and scrapbooking. 
+My name is Eden. I'm a graduate of Columbia College Chicago, with a Bachelor's degree in Game Design & Development, as well as a Master's degree in User Experience and Interaction Design. 
+
+Currently, I am a Senior Project Advisor at Reach Pathways, working on their educational website targeted at high school and college students to prepare them for life during and after college.
+
+I am also working with Team Soup, an indie game studio, as their UX Designer and Marketing & Community Engagement Lead.
+
+During my free time, I enjoy designing and playing games, writing, photography, and scrapbooking. 
 
 ***
 ### MY PROJECTS:
 ***
-**Debts & Dragons:** Debts & Dragons is a trading simulator where every choice matters. Play as a merchant newly arrived in a foreign land, who becomes inadvertently indebted to a dangerous and powerful dragon. While the lands may be unfamiliar, commerce remains the same: Buy when supply is high and demand is low; sell when supply is low and demand is high. Profit. Repeat.  An easy path to riches. Or not.
+**How To Train Your Virus:** How To Train Your Virus is a high-stakes, fast-paced roguelike arena survival game where precision movement is your only defense. Dodge relentless hazards, adapt through risky upgrades, and survive an escalating series of brutal challenges.
+
+_[Play The Demo Here](https://team-soup-studio.itch.io/how-to-train-your-virus)_
+_[Wishlist on Steam Here](https://store.steampowered.com/app/4585860/How_To_Train_Your_Virus/)_
+
+**Debts & Dragons:** Debts & Dragons is a trading simulator where every choice matters. Play as a merchant newly arrived in a foreign land who becomes inadvertently indebted to a dangerous and powerful dragon. While the lands may be unfamiliar, commerce remains the same: Buy when supply is high and demand is low; sell when supply is low and demand is high. Profit. Repeat.  An easy path to riches. Or not.
 
 _[Play Game Here](https://indiegameacademy.itch.io/debts-and-dragons)_
 
-**Pack Tactics:** Pack Tactics is a 2D visual novel game where you are recruited to take part in a bank heist, and grow your trust with your team to succeed on your mission. 
+**Pack Tactics:** Pack Tactics is a 2D visual novel game where you are recruited to take part in a bank heist and grow your trust with your team to succeed on your mission. 
 
 _[Play Game Here](https://on-an-adventure.itch.io/pack-tactics)_
 
-**Project Imosha:** Project Imosha is a deckbuilding game focused on preparing students for social situations in corporate settings.
+**Project Imosha:** Project Imosha is a deck-building game focused on preparing students for social situations in corporate settings.
 
 _[Watch Video Here](https://youtu.be/3R_neoOkj_I)_
 
-**PINBALL MASTER FLIPPER:** PINBALL MASTER FLIPPER is a 2D Pinball Game featuring three modes; Boss: Defeat the boss within 100 seconds, Rush: Speed of the game gets higher, Rhythm: Move the flippers to the beat of the song.
+**PINBALL MASTER FLIPPER:** PINBALL MASTER FLIPPER is a 2D Pinball Game featuring three modes: Boss: Defeat the boss within 100 seconds; Rush: The speed of the game gets higher; Rhythm: Move the flippers to the beat of the song.
 
 _[Play Game Here](https://andrewp-fun.itch.io/pinball-master-flipper)_
 
-**Jump Into Art:** Jump Into Art is a VR experience where you enter a Surrealist painting in a museum and explore the artwork from the inside.
-
-_[Watch Video Here](https://youtu.be/gdJ3PZw-eiQ)_
 
 ***
 ### SOCIALS:
 ***
-[![Portfolio Banner](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://szopa-ux-game-design.webflow.io/) [![LinkedIn Banner](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eszopa/) [![YouTube Banner](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TodaysAnAdventure)  [![Itch.io Banner](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://on-an-adventure.itch.io/) [![Patreon Banner](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/OnAnAdventure?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink) 
+[![Portfolio Banner](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://szopa-ux-game-design.webflow.io/) [![LinkedIn Banner](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eszopa/) [![YouTube Banner](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@On-AnAdventure)  [![Itch.io Banner](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://on-an-adventure.itch.io/) [![Patreon Banner](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/OnAnAdventure?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink) 
 
 ***
 ### TECH STACK:
